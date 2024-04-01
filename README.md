@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/u0a1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+#### Weblink please visit my portifolio: [Live Website](https://abasmuse.netlify.app/)
 
 
 <h1 align="center">Hi 👋, I'm ENG Abaas Muuse Hashi</h1>
